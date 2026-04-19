@@ -11,7 +11,7 @@ The repository is intended to support transparency, traceability, and reproducib
 ### `CODEBOOK`
 Contains the coding framework used for the content analysis, including category definitions, coding rules, and the audit trail documenting relevant coding decisions, refinements, and revisions during the research process.
 
-### `ERGEBNISTABELLEN`
+### `ANHANG_ERGEBNISTABELLEN`
 Contains the result tables and supplementary overviews generated during the analysis. These materials complement the results section of the thesis and serve as appendix-related documentation.
 
 ### `INCLUDED_DOCUMENTS`
