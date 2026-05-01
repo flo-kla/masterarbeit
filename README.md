@@ -22,7 +22,7 @@ Contains the key literature sources used for the theoretical foundation, methodo
 
 ## Purpose
 
-The materials provided in this repository document the empirical basis of the thesis and make the analytical procedure nachvollziehbar. They are shared to enhance methodological transparency and to facilitate academic review of the coding and evaluation process.
+The materials provided in this repository document the empirical basis of the thesis and make the analytical procedure comprehensible. They are shared to enhance methodological transparency and to facilitate academic review of the coding and evaluation process.
 
 ## Note
 
